@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="133" height="40" viewBox="0 0 133 40">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="132.8" height="40" fill="#202020" rx="5.6"/>
+        <text fill="#FFF" font-family="SFUIDisplay-Regular, SF UI Display" font-size="9.375" letter-spacing=".75">
+            <tspan x="42.5" y="14">Download on th</tspan> <tspan x="116.78" y="14">e</tspan>
+        </text>
+        <text fill="#FFF" font-family="SFUIDisplay-Medium, SF UI Display" font-size="18.125" font-weight="400">
+            <tspan x="42.5" y="31.375">App Store</tspan>
+        </text>
+        <path fill="#FFF" fill-rule="nonzero" d="M30.1 29.815c-1.097 1.597-2.232 3.184-4.023 3.217-1.763.033-2.328-1.04-4.34-1.04-2.013 0-2.643 1.007-4.307 1.073-1.73.065-3.044-1.724-4.15-3.314-2.259-3.25-3.983-9.189-1.664-13.197 1.148-1.99 3.206-3.25 5.435-3.283 1.699-.031 3.303 1.14 4.34 1.14 1.039 0 2.986-1.406 5.033-1.2.857.035 3.261.344 4.806 2.593-.122.08-2.87 1.672-2.837 4.989.034 3.961 3.487 5.278 3.527 5.296-.031.093-.552 1.88-1.82 3.726zM22.58 8.86c.947-1.106 2.549-1.929 3.87-1.984.17 1.536-.451 3.075-1.368 4.183-.919 1.107-2.423 1.969-3.899 1.854-.2-1.503.544-3.071 1.396-4.053z"/>
+    </g>
+</svg>
